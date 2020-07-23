@@ -10,7 +10,7 @@ function App() {
       </div>
       <div className="App">
         <header className="App-header">
-          <h1>Welcome to Howie's blog.2</h1>
+          <h1>Test git</h1>
         </header>
       </div>
     </>

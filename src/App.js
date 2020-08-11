@@ -5,12 +5,7 @@ function App() {
     <>
       <div className="App">
         <header className="App-header">
-          <h1>Welcome to Howie's blog.</h1>
-        </header>
-      </div>
-      <div className="App">
-        <header className="App-header">
-          <h1>Test git</h1>
+          <h1>Will you success? Howie</h1>
         </header>
       </div>
     </>
